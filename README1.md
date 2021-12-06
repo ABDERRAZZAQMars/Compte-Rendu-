@@ -1,7 +1,7 @@
 <h1>COMPTE RENDU PREMIERE SEMAINE APRES SAS</h1>
 
 <h2>LES FONCTIONNEMENTS DU WEB: </h2>
-<P>LLes ordinateurs qui se connectent au Web sont appelés des clients et des serveurs. ... Lorsqu'un appareil « client » souhaite accéder à une page web, une copie de la page est téléchargée depuis le serveur vers le client, la machine utilisée affiche alors le contenu dans le navigateur web de l'utilisateur.</P>
+<P>Les ordinateurs qui se connectent au Web sont appelés des clients et des serveurs. ... Lorsqu'un appareil « client » souhaite accéder à une page web, une copie de la page est téléchargée depuis le serveur vers le client, la machine utilisée affiche alors le contenu dans le navigateur web de l'utilisateur.</P>
 
 <h2>LES VEILLES: </h2>
 
